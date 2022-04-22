@@ -92,7 +92,7 @@ $GrKarbohidrat = 0;
       </ul>
       <h5>*Untuk menghitung kebutuhan gizi, kami menggunakan rumus <span> <a href="https://en.wikipedia.org/wiki/Harris%E2%80%93Benedict_equation" target='_blank'> Harris Benedict</a></span></h5>
       <div class="btn">
-        <a href="panduan.html"> BACK </a>
+        <a href="panduan.php"> BACK </a>
       </div>
     </main>
     <div class="clear"></div>

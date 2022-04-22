@@ -117,7 +117,7 @@ if (isset($_POST['submit'])){
       <h2 style="color: orange";><?php echo $tampilkalori; ?></h2>
       <h3><?php echo $tampilnama?></h3>
       <div class="btn">
-        <a href="kalkulator.html"> BACK </a>
+        <a href="kalkulator.php"> BACK </a>
       </div>
     </main>
 

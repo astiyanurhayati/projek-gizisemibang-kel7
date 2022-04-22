@@ -21,9 +21,9 @@
               <a href="index.html">Home</a>
             </li>
             <li><a href="pengenalan.html">Pengenalan</a></li>
-            <li><a href="panduan.html">Panduan</a></li>
+            <li><a href="panduan.php">Panduan</a></li>
             <li>
-              <a href="kalkulator.html"> <span>Kalkulator</span> </a>
+              <a href="kalkulator.php"> <span>Kalkulator</span> </a>
             </li>
           </ul>
         </div>
@@ -55,7 +55,7 @@
       <div class="subjudul" id="ceklis">
         <h2>Pilih makanan yang kamu konsumsi</h2>
       </div>
-      <form action="hasilkalkulator.html" method="POST">
+      <form action="hasilkalkulator.php" method="POST">
         <h3>Makanan Pokok Golongan B</h3>
         <div class="gol-b">
           <div class="kanan">

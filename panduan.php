@@ -21,9 +21,9 @@
           </li>
           <li><a href="pengenalan.html">Pengenalan</a></li>
           <li>
-            <a href="panduan.html"> <span>Panduan</span> </a>
+            <a href="panduan.php"> <span>Panduan</span> </a>
           </li>
-          <li><a href="kalkulator.html">Kalkulator</a></li>
+          <li><a href="kalkulator.php">Kalkulator</a></li>
         </ul>
         </div>
         <span class="click" style="font-size: 30px; cursor: pointer; float: right" onclick="openNav()">&#9776; </span>
@@ -70,7 +70,7 @@
       </div>
 
       <!-- berat dan tinggi -->
-      <form method="POST" action="hasilpanduan.html"> 
+      <form method="POST" action="hasilpanduan.php"> 
         <div class="data-tubuh">
           <h2 id="datatubuh"><b>Masukan Data Tubuh Anda !</b></h2>
           
